@@ -1,6 +1,6 @@
 # 📄 Gelişmiş Markdown to PDF Dönüştürücü
 
-Yazılım Mühendisliği 3. sınıf seviyesinde geliştirilmiş; metin işleme (parsing), dinamik stil yönetimi ve yazdırılabilir döküman standartlarını (CSS Paged Media) barındıran full-stack bir otomasyon aracıdır.
+Metin işleme (parsing), dinamik stil yönetimi ve yazdırılabilir döküman standartlarını (CSS Paged Media) barındıran full-stack bir otomasyon aracıdır.
 
 🚀 **Canlı Demo Linki:** [http://172.20.10.8:8501]
 
