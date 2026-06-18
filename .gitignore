@@ -1,0 +1,15 @@
+# Python önbellek dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Streamlit yerel ayarları
+.streamlit/
+
+# Proje esnasında yerel üretilen PDF çıktıları (GitHub'ı şişirmesin)
+*.pdf
+
+# İşletim sistemi kalıntıları
+.DS_Store
+Thumbs.db
